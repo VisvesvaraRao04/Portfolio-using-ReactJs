@@ -42,7 +42,7 @@ const Hero = () => {
           Hi There <span id="hiemoji">👋</span>
         </h3>
 
-        <h1>I'M VEMPARALA VISESVARA RAO</h1>
+        <h1>I'M VEMPARALA VISVESVARA RAO</h1>
 
         <TypingText />
       </div>
